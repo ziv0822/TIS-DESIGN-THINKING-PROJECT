@@ -18,4 +18,4 @@ The design thinking process was conducted in several phases:
 
 
 ## Reflection
-Through this design thinking project, I learned how to identify real user problems and translate user needs into practical system solutions. The process improved my ability to analyze user behavior, brainstorm ideas, and develop prototypes at an early stage of system development. This experience strengthened my understanding of user-centered design and its importance in developing effective information systems.
+Through this design thinking project, I learned how to identify real user problems and translate user needs into practical system solutions. The process improved my ability to analyze user behavior, brainstorm ideas and develop prototypes at an early stage of system development. This experience strengthened my understanding of user-centered design and its importance in developing effective information systems.
